@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xFgCI0sxfosUiyHpAHEba7qRRUCjfQXjw+PY2cROkwF1CoQ/lSyqKJSvSZt5lvDrAp15T7ITaEUcdKMpVUOAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aman.pandey\\Desktop\\Books\\IPLocationService\\IPLocationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\aman.pandey\\AppData\\Roaming\\NuGet\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
